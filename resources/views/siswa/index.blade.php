@@ -6,7 +6,7 @@
   <div class="container">
     <div class="row">
       <div class="col-10">
-        <h1 class="mt-3">Daftar Siswa</h1></div>  
+        <h1 class="mt-3">Daftar Siswa</h1>  
         <table class="table">
             <thead class="thead-dark">
                 <tr>
@@ -34,6 +34,7 @@
                 @endforeach
             </tbody>
         </table>
+        </div>
     </div>
   </div>
 @endsection
